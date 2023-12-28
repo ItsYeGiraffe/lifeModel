@@ -1,0 +1,1 @@
+# Life Model published from VSC to GitHub.
